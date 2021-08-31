@@ -1,5 +1,5 @@
 # Piirakka
-Project for my personal website
+Project for my personal website located at eemijun.com
 
 ## About
 Piirakka uses Django and Python for the framework. Running on AWS for hosting. 
