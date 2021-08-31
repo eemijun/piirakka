@@ -1,5 +1,5 @@
 # Piirakka
-Program that displays the weather for your selected city
+Project for my personal website
 
 ## About
 Piirakka uses Django and Python for the framework. Running on AWS for hosting. 
